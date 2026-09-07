@@ -1,0 +1,7 @@
+{
+  "appId": "com.petalaxe.zenpetals",
+  "appName": "Zen Petals",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
