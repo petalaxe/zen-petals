@@ -1,0 +1,42 @@
+name: Build packs manifest
+on:
+  push:
+    branches: [main]
+    paths: ["packs/**"]
+permissions:
+  contents: write
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate packs.json from folders
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.parse
+          base = "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/packs"
+          packs = []
+          if os.path.isdir("packs"):
+              for d in sorted(os.listdir("packs")):
+                  p = os.path.join("packs", d)
+                  if not os.path.isdir(p): continue
+                  scenes = []
+                  files = sorted(f for f in os.listdir(p) if f.lower().endswith((".jpg",".jpeg",".png")))
+                  for i, f in enumerate(files):
+                      scenes.append({
+                          "id": "%s_%d" % (d.replace(" ","_").lower(), i+1),
+                          "name": os.path.splitext(f)[0],
+                          "url": "%s/%s/%s" % (base, urllib.parse.quote(d), urllib.parse.quote(f))
+                      })
+                  if scenes:
+                      packs.append({"id": d.replace(" ","_").lower(), "name": d, "scenes": scenes})
+          json.dump({"packs": packs}, open("packs.json","w"), ensure_ascii=False, indent=1)
+          print("packs:", len(packs), "scenes:", sum(len(x["scenes"]) for x in packs))
+          PY
+      - name: Commit manifest
+        run: |
+          git config user.name "packs-bot"
+          git config user.email "actions@github.com"
+          git add packs.json
+          git commit -m "auto: puzzle packs manifest" || echo "no changes"
+          git push
