@@ -1,0 +1,17 @@
+{
+  "name": "zen-petals",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Zen Petals - a relaxing jigsaw game",
+  "scripts": {
+    "sync": "npx cap sync android"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "dependencies": {
+    "@capacitor/app": "^6.0.0"
+  }
+}
