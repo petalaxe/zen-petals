@@ -11,11 +11,26 @@
     },
     {
      "id": "zen_landscapes_week_1_2",
+     "name": "dunes",
+     "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/packs/Zen%20Landscapes%20Week%201/dunes.jpg"
+    },
+    {
+     "id": "zen_landscapes_week_1_3",
+     "name": "maples",
+     "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/packs/Zen%20Landscapes%20Week%201/maples.jpg"
+    },
+    {
+     "id": "zen_landscapes_week_1_4",
      "name": "terraces",
      "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/packs/Zen%20Landscapes%20Week%201/terraces.jpg"
     },
     {
-     "id": "zen_landscapes_week_1_3",
+     "id": "zen_landscapes_week_1_5",
+     "name": "waterfall",
+     "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/packs/Zen%20Landscapes%20Week%201/waterfall.jpg"
+    },
+    {
+     "id": "zen_landscapes_week_1_6",
      "name": "winter frost",
      "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/packs/Zen%20Landscapes%20Week%201/winter%20frost.jpg"
     }
