@@ -1,3 +1,15 @@
 {
- "packs": []
+ "packs": [
+  {
+   "id": "zen_landscapes_week_1",
+   "name": "Zen Landscapes Week 1",
+   "scenes": [
+    {
+     "id": "zen_landscapes_week_1_1",
+     "name": "bamboo",
+     "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/packs/Zen%20Landscapes%20Week%201/bamboo.jpg"
+    }
+   ]
+  }
+ ]
 }
