@@ -36,5 +36,57 @@
     }
    ]
   }
+ ],
+ "singles": [
+  {
+   "id": "sg_alpine_meadow",
+   "name": "alpine meadow",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/alpine%20meadow.jpg"
+  },
+  {
+   "id": "sg_bamboo_morning",
+   "name": "bamboo morning",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/bamboo%20morning.jpg"
+  },
+  {
+   "id": "sg_firefly_path",
+   "name": "firefly path",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/firefly%20path.jpg"
+  },
+  {
+   "id": "sg_hot_spring",
+   "name": "hot spring",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/hot%20spring.jpg"
+  },
+  {
+   "id": "sg_irises_pond",
+   "name": "irises pond",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/irises%20pond.jpg"
+  },
+  {
+   "id": "sg_moss_temple",
+   "name": "moss temple",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/moss%20temple.jpg"
+  },
+  {
+   "id": "sg_pebble_shore",
+   "name": "pebble shore",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/pebble%20shore.jpg"
+  },
+  {
+   "id": "sg_sakura_river",
+   "name": "sakura river",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/sakura%20river.jpg"
+  },
+  {
+   "id": "sg_storm_watch",
+   "name": "storm watch",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/storm%20watch.jpg"
+  },
+  {
+   "id": "sg_tea_veranda",
+   "name": "tea veranda",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/tea%20veranda.jpg"
+  }
  ]
 }
