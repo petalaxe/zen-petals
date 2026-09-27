@@ -49,9 +49,39 @@
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/bamboo%20morning.jpg"
   },
   {
+   "id": "sg_desert_bloom",
+   "name": "desert bloom",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/desert%20bloom.jpg"
+  },
+  {
    "id": "sg_firefly_path",
    "name": "firefly path",
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/firefly%20path.jpg"
+  },
+  {
+   "id": "sg_first_snow_deer",
+   "name": "first snow deer",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/first%20snow%20deer.jpg"
+  },
+  {
+   "id": "sg_forest_cabin",
+   "name": "forest cabin",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/forest%20cabin.jpg"
+  },
+  {
+   "id": "sg_full_moon_bridge",
+   "name": "full moon bridge",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/full%20moon%20bridge.jpg"
+  },
+  {
+   "id": "sg_golden_ginkgo",
+   "name": "golden ginkgo",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/golden%20ginkgo.jpg"
+  },
+  {
+   "id": "sg_hilltop_village",
+   "name": "hilltop village",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/hilltop%20village.jpg"
   },
   {
    "id": "sg_hot_spring",
@@ -59,9 +89,34 @@
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/hot%20spring.jpg"
   },
   {
+   "id": "sg_ice_cave",
+   "name": "ice cave",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/ice%20cave.jpg"
+  },
+  {
    "id": "sg_irises_pond",
    "name": "irises pond",
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/irises%20pond.jpg"
+  },
+  {
+   "id": "sg_kerala_backwaters",
+   "name": "kerala backwaters",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/kerala%20backwaters.jpg"
+  },
+  {
+   "id": "sg_lavender_dusk",
+   "name": "lavender dusk",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/lavender%20dusk.jpg"
+  },
+  {
+   "id": "sg_lighthouse_dusk",
+   "name": "lighthouse dusk",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/lighthouse%20dusk.jpg"
+  },
+  {
+   "id": "sg_monsoon_window",
+   "name": "monsoon window",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/monsoon%20window.jpg"
   },
   {
    "id": "sg_moss_temple",
@@ -74,9 +129,29 @@
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/pebble%20shore.jpg"
   },
   {
+   "id": "sg_red_canyon",
+   "name": "red canyon",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/red%20canyon.jpg"
+  },
+  {
    "id": "sg_sakura_river",
    "name": "sakura river",
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/sakura%20river.jpg"
+  },
+  {
+   "id": "sg_santorini_calm",
+   "name": "santorini calm",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/santorini%20calm.jpg"
+  },
+  {
+   "id": "sg_snow_arch",
+   "name": "snow arch",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/snow%20arch.jpg"
+  },
+  {
+   "id": "sg_stars_mirror",
+   "name": "stars mirror",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/stars%20mirror.jpg"
   },
   {
    "id": "sg_storm_watch",
@@ -84,9 +159,34 @@
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/storm%20watch.jpg"
   },
   {
+   "id": "sg_taj_dawn",
+   "name": "taj dawn",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/taj%20dawn.jpg"
+  },
+  {
    "id": "sg_tea_veranda",
    "name": "tea veranda",
    "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/tea%20veranda.jpg"
+  },
+  {
+   "id": "sg_tulip_canal",
+   "name": "tulip canal",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/tulip%20canal.jpg"
+  },
+  {
+   "id": "sg_umbrella_street",
+   "name": "umbrella street",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/umbrella%20street.jpg"
+  },
+  {
+   "id": "sg_venice_dawn",
+   "name": "venice dawn",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/venice%20dawn.jpg"
+  },
+  {
+   "id": "sg_wisteria_tunnel",
+   "name": "wisteria tunnel",
+   "url": "https://raw.githubusercontent.com/petalaxe/zen-petals/main/singles/wisteria%20tunnel.jpg"
   }
  ]
 }
